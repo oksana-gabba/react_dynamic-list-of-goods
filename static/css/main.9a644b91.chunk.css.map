@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.scss"],"names":[],"mappings":"AAAA,KACE,iBAAkB,CACnB,OAGC,WAAY,CACZ,WAAY,CACZ,WAAY,CACZ,cAAe,CAChB,GAGC,eAAgB","file":"main.9a644b91.chunk.css","sourcesContent":[".App {\n  text-align: center;\n}\n\nbutton {\n  width: 140px;\n  height: 40px;\n  margin: 10px;\n  cursor: pointer;\n}\n\nul {\n  list-style: none;\n}\n"]}
