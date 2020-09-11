@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.scss","GoodsList.scss"],"names":[],"mappings":"AAAA,KACE,iBAAkB,CACnB,OAGC,WAAY,CACZ,WAAY,CACZ,WAAY,CACZ,cAAe,CCRjB,GACE,eAAgB","file":"main.6d0f62a9.chunk.css","sourcesContent":[".App {\n  text-align: center;\n}\n\nbutton {\n  width: 140px;\n  height: 40px;\n  margin: 10px;\n  cursor: pointer;\n}\n","ul {\n  list-style: none;\n}\n"]}
